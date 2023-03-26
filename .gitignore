@@ -5,6 +5,7 @@
 .idea/
 *.iml
 *.iws
+*.ipr
 out/
 
 # Gradle files
@@ -18,4 +19,16 @@ logs/
 *.jar
 
 bin/
+
+
+# STS
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+# VS code
 .vscode
