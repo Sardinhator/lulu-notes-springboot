@@ -16,3 +16,6 @@ target/
 logs/
 *.log
 *.jar
+
+bin/
+.vscode
